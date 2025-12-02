@@ -1,0 +1,13 @@
+name,password,email,failed_login_attemps,logged_in,role
+alice_d,pass_a,alice.d@app.com,0,False,utilisateur
+bob_e,pass_b,bob.e@app.com,0,False,utilisateur
+charlie_f,pass_c,charlie.f@app.com,0,False,utilisateur
+diana_g,pass_d,diana.g@app.com,0,False,utilisateur
+eric_h,pass_e,eric.h@app.com,0,False,utilisateur
+fiona_i,pass_f,fiona.i@app.com,0,False,utilisateur
+george_j,pass_g,george.j@app.com,0,False,utilisateur
+hannah_k,pass_h,hannah.k@app.com,0,False,utilisateur
+ivan_l,pass_i,ivan.l@app.com,0,False,utilisateur
+jenna_m,pass_j,jenna.m@app.com,0,False,utilisateur
+root,rootpass,root@app.com,0,False,admin
+ltest,Laetitia test,youpla@gmail.com,0,False,utilisateur
